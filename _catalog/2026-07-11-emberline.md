@@ -4,7 +4,7 @@ kind: paper
 state: announced
 announced_at: 2026-07-11
 venue: "Wildland Fire Science Letters"
-artifact_url: "https://github.com/caromada/Emberline"
+artifact_url: "https://github.com/wholetherapi/emberline"
 ---
 Emberline converts raw VIIRS thermal detections into hourly wildfire perimeter estimates
 without manual digitisation: density clustering, concave hull construction, day-over-day
