@@ -4,6 +4,7 @@ kind: paper
 state: announced
 announced_at: 2026-08-19
 venue: "Symposium on Coastal Observability 2027"
+artifact_url: "https://github.com/wholetherapi/sundial-forecast"
 ---
 Island microgrids need sub-seasonal irradiance forecasts to schedule diesel top-ups.
 Sundial Forecast combines satellite-derived clear-sky indices with a gradient-boosted
