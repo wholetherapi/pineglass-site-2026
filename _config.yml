@@ -1,0 +1,8 @@
+title: Pineglass Research
+description: Coastal and environmental data research
+baseurl: ""
+collections:
+  catalog:
+    output: true
+    permalink: /catalog/:name/
+markdown: kramdown
